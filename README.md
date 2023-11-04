@@ -88,9 +88,6 @@ Part of a module
 Both types of dependencies can be added to a standalone component using the imports array of the @Component decorator. For example, ReactiveFormsModule can be added to the LoginComponent by passing it to the imports array as shown in the below code listing:
 
 
-
-
-
 # Housing
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.9.
