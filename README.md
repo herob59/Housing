@@ -13,20 +13,6 @@ Module-based components
 Other standalone components
 Loading routes
 Lazy loading
-A standalone pipe looks like the below:
-DEMOS
-SERVICES
-BLOGS
-DOCS & SUPPORT
-PRICING
-0
-GET A FREE TRIAL
-Telerik blogs
-Angular 14—Introducing Standalone Components
-Dhananjay Kumar by Dhananjay Kumar
-  June 28, 2022 Web, Angular 8 Comments
-AngularT2 Dark_1200x303
- 
  
 Angular 14 introduces the standalone component—a component not part of any ngModule that can be used with either other standalone or module-based components.
 
